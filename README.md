@@ -60,7 +60,7 @@ Run <a href="ComparingNoise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_A
 
 <h4>Input Files:</h4>
 
-<li> Within the folder <a href= "ComparingNoise"> Comparing_noise </a> A set of demo folders are provided. 
+<li> Within the folder <a href= "ComparingNoise"> ComparingNoise </a> A set of demo folders are provided. 
 <li>These folders should be created by peforming <a href="#Step1">Step 1</a> for each of sample data.
 
 
