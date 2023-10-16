@@ -1,5 +1,5 @@
-
-<h2 id="Step1">Step 1: Noise Calculation</h2>
+<div id="Step1">
+<h2> Step 1: Noise Calculation</h2>
 <div id="final_script">
 <h4> Run <a href= "Noise_Calculation\Noise_calculation.R"> Noise_calculation.R</a> available within the <a href="\Noise_Calculation">Noise_Calculation folder</a> with each sample data data to obtain adjusted noise values for each of the genes </h4>
 <p>
