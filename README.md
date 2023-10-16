@@ -53,7 +53,7 @@ The script should produce the following files:
 <h2> Step 2: Checking for Increasing noise trend with cancer progression</h2>
 
 This step tries to compare Samples from different cancer stages and check which genes are showing an increasing trend in noise.
-Run <a href="Comparing_noise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_Analaysis.ipynb</a> file using jupyter notebook or CLI
+Run <a href="ComparingNoise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_Analaysis.ipynb</a> file using jupyter notebook or CLI
 
 <p>
 <h4 style= "color:cyan">--Prerequisites--</h4>
