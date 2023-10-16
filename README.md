@@ -87,7 +87,7 @@ Run <a href="ComparingNoise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_A
 
 <h4>Usage:</h4>
 <li style="font-weight:bold">Using Jupyter Notebook: </li>(Recomended)
---One can use Jupyter notebook to open the <a href="Comparing_noise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_Analaysis.ipynb</a> file and run it.
+--One can use Jupyter notebook to open the <a href="ComparingNoise\Increasing_Trend_Analaysis.ipynb">Increasing_Trend_Analaysis.ipynb</a> file and run it.
 
 <li style="font-weight:bold">Using Command Line Interface (CLI)</li>
 Run the following command to convert the .ipynb file to python script file with .py extension:
