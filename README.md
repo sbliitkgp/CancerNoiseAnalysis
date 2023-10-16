@@ -5,7 +5,7 @@
 <p>
 <h4 style= "color:cyan">--Prerequisites--<h4>
 <h4>Files:</h4>
-<li>A count matrix file in CSV format is required to run this script.<li>A <a href="LUNG_N06_EPI.csv">demo CSV file</a> is provided in the same folder.<li> If you want to save your count matrix file to another folder make sure to define the correct path to it.
+<li>A count matrix file in CSV format is required to run this script.<li>A <a href="NoiseCalculation/LUNG_N06_EPI.csv">demo CSV file</a> is provided in the same folder.<li> If you want to save your count matrix file to another folder make sure to define the correct path to it.
 </p>
 <p><h4>Dependencies:</h4>
 <li>Install the required R package libraries including ccRemover, biomaRt,ShortRead.<li> Check Bioconductor for specific package installation if the package isn't available in CRAN repository.<li> Ensure the SCDE package with version 1.99.4 is installed in your environment. <li><span style= "color: pink">Higher version of SCDE might throw error!!</span>
