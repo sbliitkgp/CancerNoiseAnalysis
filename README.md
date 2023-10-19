@@ -116,10 +116,9 @@ python Increasing_Trend_Analaysis.py
 <p>
 <h4>Input Files:</h4>
 
-<li> Within the folder <a href= "SampleSpecificNoisyGenes"> SampleSpecificNoisyGenes, </a> a set of demo folders are provided. 
-<li>These folders should be created by peforming <a href="#Step1">Step 1</a> for each of sample data.
+<li> Within the folder <a href= "ComparingNoise"> ComparingNoise, </a> a set of demo folders were already provided. 
+<!-- <li>These folders should be created by peforming <a href="#Step1">Step 1</a> for each of sample data. -->
 
-p>
 <h4>Dependencies:</h4>
 
 
